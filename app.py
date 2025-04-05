@@ -92,7 +92,7 @@ def generate_coloring_book_images(idea, num_images):
     return images
 
 # Interfejs użytkownika w Streamlit
-st.title("LEgitoNARDo - Generator Kolorowanek dla Dzieci")
+st.title("LEoNARDo- Generator Kolorowanek dla Dzieci")
 
 # Inicjalizacja stanu sesji
 if "ideas" not in st.session_state:
